@@ -2,6 +2,8 @@
 
 **Won Chul Yang** — public edition v1.0 (2026)
 
+DOI: [10.5281/zenodo.21866741](https://doi.org/10.5281/zenodo.21866741)
+
 Self-dual completeness of the closed core on the resolved face of the
 dual-rail carrier D4, with the exact count and one-constant completion —
 fully proved and machine-verified.

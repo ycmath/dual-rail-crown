@@ -4,7 +4,8 @@ authors:
   - family-names: Yang
     given-names: Won Chul
 title: "The Resolved-Face Crown of the Dual-Rail Carrier: Self-Dual Completeness, the Exact Count, and One-Constant Completion"
-version: v1.0.0
+version: v1.0.1
 date-released: 2026-08-05
+doi: 10.5281/zenodo.21866741
 license: Apache-2.0
 repository-code: "https://github.com/ycmath/dual-rail-crown"
