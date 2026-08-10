@@ -1,0 +1,13 @@
+PASS [D] detector tables on R^2
+  n=1: crown=2 selfdual=2 target=2
+  n=2: crown=4 selfdual=4 target=4
+  n=3: crown=16 selfdual=16 target=16
+  n=4: selfdual=256 target=256
+PASS [C] crown = self-dual = 2^(2^(n-1)), n <= 4
+PASS [M] explicit routing term computes ternary majority on R^3
+PASS [M2] AND, OR, constant are not self-dual
+PASS [2n] n=3: crown 16 > 8 = 2^n
+PASS [K] sdGuard self-dual + guard-FAL specialization, all g at n=1,2
+PASS [M6] h (P-equivariant, monotone, endpoint-preserving) matches no unary mode
+
+ALL PASS

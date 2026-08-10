@@ -1,0 +1,30 @@
+'Wcy2.cterm_monotone' depends on axioms: [propext]
+'Wcy2.cterm_endpoints' does not depend on any axioms
+'Wcy2.cterm_equivariant' does not depend on any axioms
+'Wcy2.sigd_invol' does not depend on any axioms
+'Wcy2.sigma_not_monotone' does not depend on any axioms
+'Wcy2.escape' does not depend on any axioms
+'Wcy2.recovery' does not depend on any axioms
+'Wcy2.reentry_independent' does not depend on any axioms
+'Wcy2.sigma_eq_P_on_R' does not depend on any axioms
+'Wcy2.deval_inR' does not depend on any axioms
+'Wcy2.deval_envOf' depends on axioms: [propext]
+'Wcy2.chainDrops_and' depends on axioms: [propext, Quot.sound]
+'Wcy2.chainDrops_or' depends on axioms: [propext, Quot.sound]
+'Wcy2.chainDrops_not' depends on axioms: [propext]
+'Wcy2.dec_le_sigCount' depends on axioms: [propext, Quot.sound]
+'Wcy2.mono_realize' depends on axioms: [propext, Quot.sound]
+'Wcy2.tower_realize' depends on axioms: [propext, Quot.sound]
+'Wcy2.nu_upper' depends on axioms: [propext, Quot.sound]
+'Wcy2.nu_eq_dec_bool' depends on axioms: [propext, Quot.sound]
+'Wcy2.nu_eq_dec_D4' depends on axioms: [propext, Quot.sound]
+'Wcy2.crown_necessity' depends on axioms: [Quot.sound]
+'Wcy2.crown_sufficiency' depends on axioms: [propext, Quot.sound]
+'Wcy2.extendSD_selfDual' depends on axioms: [propext, Quot.sound]
+'Wcy2.restrictRep_extendSD' depends on axioms: [propext, Quot.sound]
+'Wcy2.extendSD_restrictRep' depends on axioms: [propext, Quot.sound]
+'Wcy2.maj3_realized' depends on axioms: [propext, Quot.sound]
+'Wcy2.and2_not_selfDual' depends on axioms: [propext]
+'Wcy2.sdGuard_selfDual' depends on axioms: [propext, Quot.sound]
+'Wcy2.sdGuard_spec' depends on axioms: [propext]
+'Wcy2.one_constant_completion' depends on axioms: [propext, Quot.sound]

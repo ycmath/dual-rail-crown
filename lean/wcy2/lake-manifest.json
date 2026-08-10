@@ -1,0 +1,13 @@
+{"version": "1.2.0",
+ "packagesDir": ".lake/packages",
+ "packages":
+ [{"type": "path",
+   "scope": "",
+   "name": "DecBridge",
+   "manifestFile": "lake-manifest.json",
+   "inherited": false,
+   "dir": "../dec_bridge",
+   "configFile": "lakefile.toml"}],
+ "name": "Wcy2",
+ "lakeDir": ".lake",
+ "fixedToolchain": false}

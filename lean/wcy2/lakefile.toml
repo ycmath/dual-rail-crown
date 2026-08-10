@@ -1,0 +1,9 @@
+name = "Wcy2"
+defaultTargets = ["Wcy2"]
+
+[[require]]
+name = "DecBridge"
+path = "../dec_bridge"
+
+[[lean_lib]]
+name = "Wcy2"

@@ -1,0 +1,5 @@
+name = "DecBridge"
+defaultTargets = ["DecBridge"]
+
+[[lean_lib]]
+name = "DecBridge"
